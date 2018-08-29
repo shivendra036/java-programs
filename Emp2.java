@@ -12,7 +12,7 @@ void show()
 {
 	System.out.println(name);
 	System.out.println(salary);
-        System.out.println(cname);
+    System.out.println(cname);
 }
 public static void main(String... a)
 {
