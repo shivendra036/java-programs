@@ -16,9 +16,9 @@ void show()
 }
 public static void main(String... a)
 {
-	Emp2 e1=new Emp2();
-	e1.get("lal", 400000);
-	e1.show();
+Emp2 e1=new Emp2();
+e1.get("lal", 400000);
+e1.show();
 	
 }
 	
