@@ -7,8 +7,8 @@ System.out.println("without arguement");
 }
 void show(int a)
 {
-	empid=a;
-	System.out.println("empid="+empid);
+empid=a;
+System.out.println("empid="+empid);
 }
 void show(int a,int b)
 {
