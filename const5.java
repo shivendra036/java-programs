@@ -21,6 +21,7 @@ class const5
 		/*
 	    new const5(). has Rid and we can access instance 
 	    data member using Rid.
+		new const5() is anonymous object
 	    */
 		new const5().show();
 		{
