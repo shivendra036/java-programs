@@ -1,5 +1,5 @@
      /*program showing instance data member of object can only be 
-	   access using RID.*/
+	   access using RID.  */
 class Temp
 {
 int x=10;
