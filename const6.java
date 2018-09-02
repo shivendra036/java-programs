@@ -14,7 +14,7 @@ class const6
 	}		
 	public static void main(String ... a)
 	{
-		//at first new will get to const6() class
+	//at first new will get to const6() class
 	new const6();			
 	}		
 }
