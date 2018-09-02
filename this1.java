@@ -6,7 +6,7 @@ int x=10;
     // here z will access the Rid from t
 void show(int x,Temp z)
 {
-System.out.println("1 "+x);
+  System.out.println("1 "+x);
     /*  object can't be local or private or public 
 		so object can be access from anywhere
 		object can be created anywhere
