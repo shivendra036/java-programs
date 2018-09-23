@@ -26,9 +26,10 @@ public static void main(String ... a)
 		}
 		}
 	}
+System.out.print("sorted sequence: ");
 for(int i=0;i<=sort.length-1;i++)
 {
-	System.out.print(sort[i]);
+	System.out.print(" "+sort[i]);
 }	
 }
 }
