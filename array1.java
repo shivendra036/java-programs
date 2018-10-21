@@ -5,7 +5,7 @@ class array1
 public static void main(String ... a)
 {
     int z[];
-	System.out.println("entr size");
+	System.out.println("enter size");
 	int x1=new Scanner (System.in).nextInt();
 	z=new int[x1];
 	
